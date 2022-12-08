@@ -15,9 +15,14 @@
 <br />
 
 _If I should maintain this repo, please ⭐️_
-<img align="right" alt="GitHub stars" src="https://img.shields.io/github/stars/bconnorwhite/get-module-pkg?label=⭐️&style=social">
+<a href="https://github.com/bconnorwhite/get-module-pkg">
+  <img align="right" alt="GitHub stars" src="https://img.shields.io/github/stars/bconnorwhite/get-module-pkg?label=%E2%AD%90%EF%B8%8F&style=social">
+</a>
 
-_DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or suggestions._<img align="right" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bconnorwhite.svg?label=%40bconnorwhite&style=social">
+_DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or suggestions._
+<a href="https://twitter.com/bconnorwhite">
+  <img align="right" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bconnorwhite.svg?label=%40bconnorwhite&style=social">
+</a>
 
 ---
 
@@ -75,7 +80,7 @@ import { PackageJSON } from "get-module-pkg";
 
 <br />
 
-<h2>Dependencies<img align="right" alt="dependencies" src="https://img.shields.io/hackage-deps/v/get-module-pkg.svg"></h2>
+<h2>Dependencies<a href="https://www.npmjs.com/package/get-module-pkg?activeTab=dependencies"><img align="right" alt="dependencies" src="https://img.shields.io/hackage-deps/v/get-module-pkg.svg"></a></h2>
 
 - [find-up](https://npmjs.com/package/find-up): Find a file or directory by walking up parent directories
 - [read-json-safe](https://www.npmjs.com/package/read-json-safe): Read objects from JSON files without try catch.
@@ -92,7 +97,7 @@ import { PackageJSON } from "get-module-pkg";
 
 <br />
 
-<h2>License <img align="right" alt="license" src="https://img.shields.io/npm/l/get-module-pkg.svg"></h2>
+<h2>License <a href="https://opensource.org/licenses/MIT"><img align="right" alt="license" src="https://img.shields.io/npm/l/get-module-pkg.svg"></a></h2>
 
 [MIT](https://opensource.org/licenses/MIT)
 
