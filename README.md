@@ -21,7 +21,7 @@ _If I should maintain this repo, please ⭐️_
 
 _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or suggestions._
 <a href="https://twitter.com/bconnorwhite">
-  <img align="right" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bconnorwhite.svg?label=%40bconnorwhite&style=social">
+  <img align="right" alt="Twitter Follow" src="https://img.shields.io/twitter/url?label=%40bconnorwhite&style=social&url=https%3A%2F%2Ftwitter.com%2Fbconnorwhite">
 </a>
 
 ---
