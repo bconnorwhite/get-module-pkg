@@ -1,6 +1,6 @@
 {
   "name": "get-module-pkg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get your module's package.json without importing it",
   "main": "./build/index.js",
   "author": "Connor White",
