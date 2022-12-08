@@ -1,0 +1,33 @@
+{
+  "name": "get-module-pkg",
+  "version": "1.0.0",
+  "description": "Get your module's package.json",
+  "main": "source/index.js",
+  "author": "Connor White",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "exports": "./build/index.js",
+  "files": [
+    "build/**/*.js",
+    "build/**/*.d.ts"
+  ],
+  "scripts": {
+    "build": "tsc --project ./tsconfig.json --incremental",
+    "lint": "eslint source --ext .ts"
+  },
+  "dependencies": {
+    "find-up": "^6.3.0",
+    "read-json-safe": "^2.0.2",
+    "types-pkg-json": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.11",
+    "eslint": "^8.29.0",
+    "eslint-config-bob": "^2.0.1",
+    "typescript": "^4.9.4"
+  },
+  "eslintConfig": {
+    "extends": "eslint-config-bob"
+  }
+}
